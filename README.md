@@ -29,7 +29,7 @@ The API returns an array of JSON objects. Each object represents a message with 
 
 ```json
 {
-  "uid": "johndoe",
+  "uid": "123",
   "text": "Hello, World!"
 }
 ```
