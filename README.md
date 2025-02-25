@@ -89,5 +89,9 @@ axios.post(url, data)
   });
 
 ```
+## UML Sequence Diagram:
+![alt text](./UML.png)
+
+
 
 
